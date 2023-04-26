@@ -1,5 +1,6 @@
 # AVclass_virustotal_json2family_label
 应用本项目可以实现vt得到的json文件，给malware打家族标签
+
 step1:
 
   python vt2json.py -y 2020
